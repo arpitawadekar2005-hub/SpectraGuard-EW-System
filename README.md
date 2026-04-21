@@ -16,30 +16,39 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ## 📊 Results
 
-### FFT Detection
+### Signal generation
+
+![Signal generation](results/td_plot.png)
+
+### FFT Analysis
 
 ![FFT](results/fft_plot.png)
 
-### Jamming Effect
+### Signal Detection
+
+![Signal Detection](results/spectrum_plot.png)
+
+### Jamming
 
 ![Jamming](results/jamming_plot.png)
 
-### Spectrum Analysis
+### Results
+![Results](results/results_plot.png)
 
-![Spectrum](results/spectrum_plot.png)
-
-### Time Domain Signal
-
-![Time Domain](results/td_plot.png)
+### spectrum
+![spectrum](results/spectrum_plot.png)
 
 
+##  Concepts Used
 
-## 🧠 Concepts Used
+FFT 
+Signal Detection 
+Digital Filtering 
+Spectrogram
 
-FFT • Signal Detection • Digital Filtering • Spectrogram
 
----
+##  Applications
 
-## 🚀 Applications
-
-Electronic Warfare • ELINT • Radar Systems
+ Electronic Warfare 
+ ELINT 
+ Radar Systems
