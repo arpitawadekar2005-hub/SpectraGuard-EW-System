@@ -5,7 +5,7 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ---
 
-## 🔧 Features
+##  Features
 
 * Signal generation (signal + noise)
 * FFT-based frequency detection
@@ -14,7 +14,7 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Signal generation
 
