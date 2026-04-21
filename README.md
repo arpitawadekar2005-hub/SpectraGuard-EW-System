@@ -41,14 +41,14 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ##  Concepts Used
 
-FFT 
-Signal Detection 
-Digital Filtering 
-Spectrogram
+* FFT 
+* Signal Detection 
+* Digital Filtering 
+* Spectrogram
 
 
 ##  Applications
 
- Electronic Warfare 
- ELINT 
- Radar Systems
+ * Electronic Warfare 
+ * ELINT 
+ * Radar Systems
