@@ -1,5 +1,4 @@
 # SpectraGuard-EW-System
-# SpectraGuard
 
 Adaptive Electronic Warfare (EW) system for signal detection and jamming using DSP.
 
